@@ -83,7 +83,7 @@ const index = () => {
             <Wrapper>
                 <Title>Education</Title>
                 <Desc>
-                    My education has been a journey of self-discovery and growth. My educational details are as follows.
+                    Pendidikan saya telah menjadi perjalanan penemuan diri dan pertumbuhan. Detail pendidikan saya adalah sebagai berikut.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
